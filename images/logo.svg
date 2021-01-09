@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50" height="50" viewBox="0 0 500 500">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #e1c8d4;
+      }
+    </style>
+    <image id="image" width="33" height="43" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAAECAYAAABLLYUHAAAAP0lEQVQImQE0AMv/A+Hi6DkICyK9iYmH+AP6/Rfj/Pv9EWRiTlAC+fn7AAQFBPwCAgIAA6akncy+wc1HAAAAEqO9FyEe5q+cAAAAAElFTkSuQmCC"/>
+  </defs>
+  <rect id="圆角矩形_1" data-name="圆角矩形 1" class="cls-1" x="220" width="60" height="500" rx="10" ry="10"/>
+  <rect id="圆角矩形_1_拷贝" data-name="圆角矩形 1 拷贝" class="cls-1" y="220" width="500" height="60" rx="10" ry="10"/>
+  <use id="图层_1" data-name="图层 1" x="234" y="229" xlink:href="#image"/>
+  <image id="图层_1_拷贝_9" data-name="图层 1 拷贝 9" x="357" y="85" width="60" height="78" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAICAYAAADaxo44AAAA00lEQVQImQHIADf/Af///wAAAAAFuLrIfcHCz1MJCQcTXFpHTAD///8JjpGn1D5Eaf9ESW3/w8XRffP09g0Avb7Lg0NIbP9OUnX/pqm6tf///wD///8ABMvN11QNDQsABgUEACIhG6P9/v8A9/f4AAL+//8IAgIBAP39/gAA//8KAwIBAP//AAACKCYewPLx9QABAgEAzM/YagAAAAANDAkAA6Cfms7X2N9n3+DmBePj6RoMCwomEBAM2wOEhIPyOzovq/z7/Rz19fcVztDYNxAPDQF+7VymOcVUsQAAAABJRU5ErkJggg=="/>
+  <image id="_21_575_cac4de9b45dc02e6cbb91a5377613e12_5895af84d54e6abc81e3925b5484731d" data-name="21_575_cac4de9b45dc02e6cbb91a5377613e12_5895af84d54e6abc81e3925b5484731d" x="297" y="299" width="180" height="180" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABWzo5XAAACWUlEQVQ4jU3UfejNdxjG8ZfzO0wMbdjGVpOY5mktk6dtEZlaDX/YatJKm1CkSbPtH4k/xEQR2VZIbZNIHpqHbSXZlrEwZobsj20sYTMmsumuS+3U6XS+3+/nvq/7fV33t9XM2UsP4hD+xCh8i4/RxMN4ESdxBK/gMbTFs6izD2JYA1/jEp7BAdzCHXTBN1iCXriG5zAiDb7AAPxTBavQGQzHJFzHTbTDb1iGrzASy3EVvXEWf+M1jMb5kv8mtuN4Op7HTxiEuXgJ0zLif0HwUJQtxN0q2EzXHjiHB3AKm/PbIwdu4N3weyPNauw+uIJtzagpYCvwKDaE1194O2C3RM2TAX4Cm/BlmPatQq8H5ni0wVPYjffxPD7FDszD2Lj2K4ZGdfGb2DJ4yNh/8XhubovcR9Ap8rvk4WkxZhFaB0Wx/L2alWuDsR6fxZn+sfcj7EErDEzWavSLmaK+P8fFdc0cLLv3xs4f8Xn4fJfio2L5tQSxFHXF2kxxqRR9gDmRLB2PxM2XsTFQLycO9wt1DIKeaDRzoxFOVaQb9iXR3yeY7+ReObkfnXE4CodViBu5eBqzwuNUui3AKvySrFTqd/2PWaltwVYca0bNToxD99yYknzMiOJDgdona7IqkbmNyZjeSFLbpXr9fytda2Wmh826XCt2lfaKRAe0z8rcqYOf4Gm8l8QejfT5WInFWcx6IxSjUlujV4E1mWBQjVbjFIcKX4WwDlzAGKyOyhqxH57ImlQ8fkjD+nSvh15ApbvWoGJf75dy7Y+sS3X/MOEs6K9mlSZkG6Zixj3Ef6CO9PNDbAAAAABJRU5ErkJggg=="/>
+  <use id="图层_1_拷贝_8" data-name="图层 1 拷贝 8" x="234" y="341" xlink:href="#image"/>
+  <use id="图层_1_拷贝_7" data-name="图层 1 拷贝 7" x="234" y="125" xlink:href="#image"/>
+  <use id="图层_1_拷贝_6" data-name="图层 1 拷贝 6" x="234" y="437" xlink:href="#image"/>
+  <use id="图层_1_拷贝_5" data-name="图层 1 拷贝 5" x="234" y="29" xlink:href="#image"/>
+  <use id="图层_1_拷贝_4" data-name="图层 1 拷贝 4" x="131" y="229" xlink:href="#image"/>
+  <use id="图层_1_拷贝_3" data-name="图层 1 拷贝 3" x="336" y="229" xlink:href="#image"/>
+  <use id="图层_1_拷贝_2" data-name="图层 1 拷贝 2" x="33" y="229" xlink:href="#image"/>
+  <use id="图层_1_拷贝" data-name="图层 1 拷贝" x="434" y="229" xlink:href="#image"/>
+</svg>
