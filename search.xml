@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>Notion数据库的学习</title>
+      <link href="posts/2458bc17/"/>
+      <url>posts/2458bc17/</url>
+      
+        <content type="html"><![CDATA[<p>Notion将“万物皆对象（block）”的思维运用到数据管理中，让使用者可以天马行空地去创造、拖拽、链接，有着十分强大的功能。<br>同时支持markdown语法以及十多种代码高亮<br>还能够用它来写作，制作to-do list<br>等等…</p><p>只有想不到，没有做不到</p><p>Notion将完全融入我的日常生活之中</p><a id="more"></a><h1 id="强大的Databases逻辑"><a href="#强大的Databases逻辑" class="headerlink" title="强大的Databases逻辑"></a>强大的Databases逻辑</h1><p>正是这样的数据库逻辑，才使得Everything in Notion is a block<br>想象一下，您添加到页面上的所有内容（无论文本、图像或者是表格）都可以成为一个独立的block。每一页都可以由您想要的组合块构建</p><h1 id="搭建我的workspace"><a href="#搭建我的workspace" class="headerlink" title="搭建我的workspace"></a>搭建我的workspace</h1><p>这是我个人notion的workspace，我可以通过这样的数据库模块来安排和制定计划，明确学习目标，提高效率和生活质量。<br>[zyyyyyih`s notion](<a href="https://www.notion.so/MY-WORKSPACE-0be8d3e60c56467591aabd0710191d42">https://www.notion.so/MY-WORKSPACE-0be8d3e60c56467591aabd0710191d42</a>)</p><p>这一切都是从一个个空白的页面链接在一起的，同时我对其中数据的改动也会相应的改变我需要看到的东西<br>例如：我完成了某个task并check了，相应project的进度条就会随之改变（这样的功能是自己通过函数实现的），首页的tasks上的对应任务也会随之消失<br>我还可以通过Filter的设定来让我的首页仅显示今天和明天的任务（当然也可以根据需要进行改变）<br>Filter group的设计也是继承notion使用database的思想</p><p><img src="https://gitee.com/zyyyyyih/picture-bed/raw/master/img/2021-02-22201705.png" loading="lazy"></p><h1 id="更多的功能和想法"><a href="#更多的功能和想法" class="headerlink" title="更多的功能和想法"></a>更多的功能和想法</h1><p>在这里给出notion的官方<a href="https://www.notion.so/Help-Support-e040febf70a94950b8620e6f00005004">文档</a></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> notion </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>C++的STL</title>
       <link href="posts/553b08ef/"/>
       <url>posts/553b08ef/</url>
